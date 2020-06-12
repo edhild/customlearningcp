@@ -35,7 +35,7 @@
         {
           "Id": "3bf87d98-45f5-4c51-b34c-2c651e3caa06",
           "Name": "Opening Moves",
-          "Image": "images/categories/remote.png",
+          "Image": "images/categories/go.png",
           "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
           "SubjectId": "7aac97d2-fc5a-490c-bf8a-0fe2f68d3eac",
           "Source": "EdHild",
@@ -44,7 +44,7 @@
         {
           "Id": "c51b4be5-a237-4d79-a08c-e6830ebea4be",
           "Name": "Fundamentals",
-          "Image": "images/categories/remote.png",
+          "Image": "images/categories/go.png",
           "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
           "SubjectId": "db5418e5-6e19-48af-a29f-e239838f8dd8",
           "Source": "EdHild",

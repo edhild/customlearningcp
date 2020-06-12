@@ -2,7 +2,7 @@
   {
     "Id": "b5574577-4583-487e-998b-99ba7392b35f",
     "Title": "Getting Started in Pokemon Go",
-    "Image": "images/playlists/remotesite.png",
+    "Image": "images/playlists/start.png",
     "LevelId": "27f4c5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "e2b55f92-726d-414f-9c5c-2b45d009e82f",
     "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
@@ -24,7 +24,7 @@
   {
     "Id": "1f5b2479-7629-4fd7-a642-cf29f64f0cb5",
     "Title": "Leading a Gym in Pokemon Go",
-    "Image": "images/playlists/remotesite.png",
+    "Image": "images/playlists/gym.png",
     "LevelId": "27f4c5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "e2b55f92-726d-414f-9c5c-2b45d009e82f",
     "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
