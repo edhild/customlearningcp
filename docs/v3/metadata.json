@@ -1,74 +1,46 @@
 {
   "Technologies": [
     {
-      "Id": "860eb443-491b-467b-8d30-05d76e32b358",
-      "Name": "Pokemon Go",
+      "Id": "1bc58e88-3db7-4a15-ad19-b3b0ab606a53",
+      "Name": "Learning Pathways",
+      "Subjects": []
+    },
+    {
+      "Id": "24a63b0c-4f0e-4565-93d7-9b8a981e960f",
+      "Name": "Multilingual",
+      "Subjects": []
+    },
+    {
+      "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "Name": "PnP",
       "Subjects": [
         {
-          "Id": "7aac97d2-fc5a-490c-bf8a-0fe2f68d3eac",
-          "Name": "Catching"
+          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
+          "Name": "SPFx Generator"
         },
         {
-          "Id": "c38801a2-7ee8-4e12-8aea-686fc8f75720",
-          "Name": "Raids"
-        },
-        {
-          "Id": "3e9d27e3-e2c3-46f4-9879-739cd7ed1b11",
-          "Name": "Battle League"
-        },
-        {
-          "Id": "db5418e5-6e19-48af-a29f-e239838f8dd8",
-          "Name": "Gyms"
+          "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
+          "Name": "Provisioning"
         }
-
       ]
     }
-    
   ],
   "Categories": [
     {
-      "Id": "6db7e2d5-b8b1-4772-bcbd-3aea8247da42",
-      "Name": "Getting started in Pokemon Go",
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Recent PnP Learnings",
       "Image": "",
-      "TechnologyId": "",
+      "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-      "Source": "EdHild",
+      "Source": "JulieTurner",
       "SubCategories": [
         {
-          "Id": "3bf87d98-45f5-4c51-b34c-2c651e3caa06",
-          "Name": "Opening Moves",
+          "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+          "Name": "PnP Remote Provisioning",
           "Image": "images/categories/remote.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "EdHild",
-          "SubCategories": []
-        },
-        {
-          "Id": "c51b4be5-a237-4d79-a08c-e6830ebea4be",
-          "Name": "Fundamentals",
-          "Image": "images/categories/remote.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "EdHild",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "41d4938b-5805-4f5c-8fbd-4482dd3e07ce",
-      "Name": "Products",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "EdHild",
-      "SubCategories": [
-        {
-          "Id": "a1cf80ff-f59c-45c2-87af-f2ad3284ff5a",
-          "Name": "Pokemon Go",
-          "Image": "images/categories/remote.png",
-          "TechnologyId": "860eb443-491b-467b-8d30-05d76e32b358",
-          "SubjectId": null,
-          "Source": "EdHild",
+          "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+          "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+          "Source": "JulieTurner",
           "SubCategories": []
         }
       ]
@@ -76,12 +48,16 @@
   ],
   "Audiences": [
     {
-      "Id": "e2b55f92-726d-414f-9c5c-2b45d009e82f",
-      "Name": "Player"
+      "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+      "Name": "Developer"
+    },
+    {
+      "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
+      "Name": "IT Admin"
     }
   ],
   "Sources": [
-    "EdHild"
+    "JulieTurner"
   ],
   "Levels": [
     {
@@ -101,6 +77,22 @@
     {
       "Id": "164d99ed-c638-4dbb-8295-781312dee721",
       "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
     }
   ],
   "Telemetry": {},
@@ -108,10 +100,11 @@
     "Manifest": "v3",
     "ManifestMinWebPart": "3.0.0",
     "CurrentWebPart": "3.0.0",
-    "RepoURL": "https://github.com/edhild/customlearningcp"
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
   },
   "ContentPacks": [],
   "AssetOrigins": [
-    "https://www.ign.com/"
+    "https://support.office.com",
+    "https://docs.microsoft.com"
   ]
 }
